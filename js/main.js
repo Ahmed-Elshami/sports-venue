@@ -36,10 +36,10 @@ $("#topBtn").click(function(){
 // plugins
 $(document).ready(function(){
   $('.owl-carousel').owlCarousel({
-    items:4,
+    items:3,
     loop:true,
     margin:3,
-    center:true
+    center:true,
   });
 });
 

@@ -36,7 +36,7 @@ $("#topBtn").click(function(){
 // plugins
 $(document).ready(function(){
   $('.owl-carousel').owlCarousel({
-    items:4,
+    items:2,
     loop:true,
     margin:2,
     center:true,

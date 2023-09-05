@@ -114,7 +114,7 @@
     background-color: #000;
     transition: all 1s;
     position: relative;
-    border: #e35454 3px solid;
+    border: #666 3px solid;
     box-shadow:10px 10px 10px  rgba(0,0,0,0.5);
 }
 .part1:hover {
@@ -140,7 +140,7 @@
 
 /*                                                          */
 .background{
-    height: 1000px;
+    height: 1100px;
     background-image: url(../images/images/bg_FULL_the_healthiest_version.jpg);
     background-size: 100% 100%;
     background-attachment: fixed;
@@ -302,7 +302,7 @@
 /*                                   */
 #Client{
     margin-top: 200px;
-    background-color: #F7F7F7;
+    /* background-color: #F7F7F7; */
     padding-bottom: 100px;
 }
 

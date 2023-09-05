@@ -36,9 +36,9 @@ $("#topBtn").click(function(){
 // plugins
 $(document).ready(function(){
   $('.owl-carousel').owlCarousel({
-    items:3,
+    items:4,
     loop:true,
-    margin:3,
+    margin:2,
     center:true,
   });
 });
